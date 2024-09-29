@@ -38,11 +38,13 @@ The system uses CSV files as a lightweight database to store book data, user inf
 These datasets are pre-processed and analyzed to generate relevant book suggestions for the users.
 
 # How to Use
-	1.	Clone the Repository
- 	2.	Install Dependencies:
-      Ensure that all required Python packages are installed. You can install the dependencies using pip:
-  4.	Using the Book Recommendation System:
-	    •	Book by Name: Enter a book name in the input field and click “Search Book” to get a list of similar books that you may enjoy.
-	    •	Book by Category: Choose a category (e.g., Action, Fantasy, Fiction) from the dropdown and click “Search Book” to receive recommendations         within that genre.
-	5.	Clear Search:
-	    •	Both features allow users to clear the search and results using the “Clear Search” button.
+1.	Clone the Repository
+2.	Install Dependencies: Ensure that all required Python packages are installed. You can install the dependencies using pip:pip install numpy pandas scikit-learn tkinter
+4.	Using the Book Recommendation System:
+	•	Book by Name: Enter a book name in the input field and click “Search Book” to get a list of similar books that you may enjoy.
+	•	Book by Category: Choose a category (e.g., Action, Fantasy, Fiction) from the dropdown and click “Search Book” to receive			recommendations within that genre.
+5.	Clear Search:
+	•	Both features allow users to clear the search and results using the “Clear Search” button.
+
+helii
+a;c
