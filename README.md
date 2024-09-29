@@ -1,4 +1,4 @@
-# AI_Books_-Recommendation_System_Python
+# AI_Books_Recommendation_System_Python
 The Books Recommendation System is an AI-driven application designed to enhance the book discovery experience. It provides users with personalized book recommendations based on either a specific book title or a selected category. By leveraging machine learning algorithms, the system offers curated book suggestions, helping readers find their next favorite book effortlessly. The system uses a machine learning approach to deliver personalized book recommendations. For book name-based recommendations, the system leverages the cosine similarity algorithm to compare user-provided input with existing book data. For category-based recommendations, the system filters books by genre and suggests top-rated books within that category.
 
 # Features
