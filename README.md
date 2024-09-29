@@ -3,9 +3,9 @@ The Books Recommendation System is an AI-driven application designed to enhance 
 
 # Features
 
-The Books Recommendation System is an AI-powered application that provides personalized book suggestions. It offers two key features:
+### The Books Recommendation System is an AI-powered application that provides personalized book suggestions. It offers two key features:
 
-	1.	Recommendation by Book Name:
+* Recommendation by Book Name: 1
 	•	Users can input the name of thier favourite book, and the system will recommend similar books that the user may like to read.
 	•	The recommendation is based on an AI algorithm that evaluates similarity between books using "Cosine similarity".
  
