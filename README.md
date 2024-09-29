@@ -40,12 +40,10 @@ These datasets are pre-processed and analyzed to generate relevant book suggesti
 # How to Use
 	1.	Clone the Repository
 	2.	Install Dependencies: Ensure that all required Python packages are installed. You can install the dependencies using 
- 		• pip:pip install numpy pandas scikit-learn tkinter
+ 	• 	pip:pip install numpy pandas scikit-learn tkinter
 	3.	Using the Book Recommendation System:
-		• Book by Name: Enter a book name in the input field and click “Search Book” to get a list of similar books that you may enjoy.
-  		• Some names of book can be find in sample_books_tested.txt file 
-		• Book by Category: Choose a category (e.g., Action, Fantasy, Fiction) from the dropdown and click “Search Book” to receive recommendations within that genre.
+	• 	Book by Name: Enter a book name in the input field and click “Search Book” to get a list of similar books that you may enjoy.
+  	• 	Some names of book can be find in sample_books_tested.txt file 
+	• 	Book by Category: Choose a category (e.g., Action, Fantasy, Fiction) from the dropdown and click “Search Book” to receive recommendations within that genre.
 	4.	Clear Search:
 	•	Both features allow users to clear the search and results using the “Clear Search” button.
-
-h
