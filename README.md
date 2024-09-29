@@ -6,11 +6,11 @@ The Books Recommendation System is an AI-driven application designed to enhance 
 The Books Recommendation System is an AI-powered application that provides personalized book suggestions. It offers two key features:
 
 	1 Recommendation by Book Name:
-	•	Users can input the name of thier favourite book, and the system will recommend similar books that the user may like to read.
-	•	The recommendation is based on an AI algorithm that evaluates similarity between books using "Cosine similarity".
+		•	Users can input the name of thier favourite book, and the system will recommend similar books that the user may like to read.
+		• 	The recommendation is based on an AI algorithm that evaluates similarity between books using "Cosine similarity".
  
 	2.	Recommendation by Book Category:
-	•	Users can select a book category (e.g., Classic, Action, Fantasy, Horror, or Fiction) and receive recommendations for books within the chosen genre.
+		• 	Users can select a book category (e.g., Classic, Action, Fantasy, Horror, or Fiction) and receive recommendations for books within the chosen genre.
 
  # Main Modules:
 
@@ -40,10 +40,10 @@ These datasets are pre-processed and analyzed to generate relevant book suggesti
 # How to Use
 	1.	Clone the Repository
 	2.	Install Dependencies: Ensure that all required Python packages are installed. You can install the dependencies using 
- 	• 	pip:pip install numpy pandas scikit-learn tkinter
+ 		• 	pip:pip install numpy pandas scikit-learn tkinter
 	3.	Using the Book Recommendation System:
-	• 	Book by Name: Enter a book name in the input field and click “Search Book” to get a list of similar books that you may enjoy.
-  	• 	Some names of book can be find in sample_books_tested.txt file 
-	• 	Book by Category: Choose a category (e.g., Action, Fantasy, Fiction) from the dropdown and click “Search Book” to receive recommendations within that genre.
+		• 	Book by Name: Enter a book name in the input field and click “Search Book” to get a list of similar books that you may enjoy.
+  		• 	Some names of book can be find in sample_books_tested.txt file 
+		• 	Book by Category: Choose a category (e.g., Action, Fantasy, Fiction) from the dropdown and click “Search Book” to receive recommendations within that genre.
 	4.	Clear Search:
-	•	Both features allow users to clear the search and results using the “Clear Search” button.
+		•	Both features allow users to clear the search and results using the “Clear Search” button.
