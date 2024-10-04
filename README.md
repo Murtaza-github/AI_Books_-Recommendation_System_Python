@@ -7,8 +7,9 @@ The Books Recommendation System is an AI-driven application designed to enhance 
 The Books Recommendation System is an AI-powered application that provides personalized book suggestions. It offers two key features:
 
 1. Recommendation by Book Name
-* Users can input the name of thier favourite book, and the system will recommend similar books that the user may like to read.
-* The recommendation is based on an AI algorithm that evaluates similarity between books using "Cosine similarity".
+* Users can input the name of their favorite book, and the system will recommend similar books that they may enjoy.
+* The recommendations are based on ratings from other users who have read the same book and highly rated other books.
+* The system uses an AI algorithm that evaluates the similarity between books based on "Cosine Similarity," ensuring personalized recommendations.
  
 2. Recommendation by Book Category:
 * Users can select a book category (e.g., Classic, Action, Fantasy, Horror, or Fiction) and receive recommendations for books within the chosen genre.
